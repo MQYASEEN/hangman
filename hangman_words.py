@@ -7,4 +7,8 @@ words_list = ['apple', 'banana', 'orange', 'grape', 'strawberry', 'kiwi', 'pinea
           'turtle', 'tortoise', 'gecko', 'iguana', 'chameleon', 'skink', 'anole', 'bearded dragon', 'snake', 'python',
           'frog', 'toad', 'newt', 'salamander', 'axolotl', 'tadpole', 'hermit crab', 'scorpion', 'tarantula', 'millipede',
           'centipede', 'beetle', 'ant', 'grasshopper', 'cricket', 'caterpillar', 'butterfly', 'moth', 'bee', 'wasp',
-          'spider', 'fly', 'mosquito', 'ladybug', 'firefly', 'dragonfly', 'beetle', 'crab', 'lobster', 'shrimp', 'prawn']
+          'spider', 'fly', 'mosquito', 'ladybug', 'firefly', 'dragonfly', 'beetle', 'crab', 'lobster', 'shrimp', 'prawn',
+          'elephant', 'lion', 'tiger', 'giraffe', 'zebra', 'rhinoceros', 'hippopotamus', 'cheetah', 'leopard', 'panther',
+          'bear', 'wolf', 'fox', 'deer', 'moose', 'elk', 'buffalo', 'camel', 'llama', 'alpaca', 'kangaroo',
+          'koala', 'panda', 'sloth', 'anteater', 'armadillo', 'hedgehog', 'porcupine', 'koala', 'pangolin', 'platypus',
+          'otter', 'seal', 'walrus', 'dolphin', 'whale', 'shark', 'octopus', 'squid', 'cuttlefish', 'jellyfish', 'starfish']
